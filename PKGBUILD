@@ -2,7 +2,7 @@
 
 pkgname=bbqlinux-artwork
 pkgver=1.0.2
-pkgrel=1
+pkgrel=2
 pkgdesc="BBQLinux Artwork"
 arch=('any')
 url="https://github.com/bbqlinux/bbqlinux-artwork"
