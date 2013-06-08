@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
+<wallpapers>
+
+	<wallpaper deleted="false">
+		<name>BBQLinux light</name>
+		<filename>/usr/share/backgrounds/bbqlinux/bbqlinux_wallpaper_00.jpg</filename>
+		<options>zoom</options>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>BBQLinux grey</name>
+		<filename>/usr/share/backgrounds/bbqlinux/bbqlinux_wallpaper_01.jpg</filename>
+		<options>zoom</options>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>BBQLinux grey flat</name>
+		<filename>/usr/share/backgrounds/bbqlinux/bbqlinux_wallpaper_02.jpg</filename>
+		<options>zoom</options>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>BBQLinux black</name>
+		<filename>/usr/share/backgrounds/bbqlinux/bbqlinux_wallpaper_05.jpg</filename>
+		<options>zoom</options>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>BBQLinux circle dark</name>
+		<filename>/usr/share/backgrounds/bbqlinux/bbqlinux_wallpaper_10.jpg</filename>
+		<options>zoom</options>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>BBQLinux circle light</name>
+		<filename>/usr/share/backgrounds/bbqlinux/bbqlinux_wallpaper_20.jpg</filename>
+		<options>zoom</options>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>BBQLinux retro</name>
+		<filename>/usr/share/backgrounds/bbqlinux/bbqlinux_wallpaper_30.jpg</filename>
+		<options>zoom</options>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>BBQLinux Q</name>
+		<filename>/usr/share/backgrounds/bbqlinux/bbqlinux_wallpaper_40.jpg</filename>
+		<options>zoom</options>
+	</wallpaper>
+
+	<wallpaper deleted="false">
+		<name>BBQLinux equalizer</name>
+		<filename>/usr/share/backgrounds/bbqlinux/bbqlinux_wallpaper_50.jpg</filename>
+		<options>zoom</options>
+	</wallpaper>
+
+</wallpapers>
