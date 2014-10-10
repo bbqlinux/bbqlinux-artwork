@@ -1,8 +1,8 @@
 # Maintainer: Daniel Hillenbrand <codeworkx [at] bbqlinux [dot] org>
 
 pkgname=bbqlinux-artwork
-pkgver=1.0.4
-pkgrel=2
+pkgver=1.0.5
+pkgrel=1
 pkgdesc="BBQLinux Artwork"
 arch=('any')
 url="https://github.com/bbqlinux/bbqlinux-artwork"

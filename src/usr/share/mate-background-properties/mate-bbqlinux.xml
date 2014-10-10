@@ -27,6 +27,12 @@
 	</wallpaper>
 
 	<wallpaper deleted="false">
+		<name>BBQLinux TuxDroid by Moonshine</name>
+		<filename>/usr/share/backgrounds/bbqlinux/bbqlinux_wallpaper_06.jpg</filename>
+		<options>zoom</options>
+	</wallpaper>
+
+	<wallpaper deleted="false">
 		<name>BBQLinux circle dark</name>
 		<filename>/usr/share/backgrounds/bbqlinux/bbqlinux_wallpaper_10.jpg</filename>
 		<options>zoom</options>
